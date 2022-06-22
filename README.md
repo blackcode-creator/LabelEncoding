@@ -8,7 +8,7 @@ to start training.
 But this is not usually the case.
 
 as shown below: - 
-
+![Screenshot from 2022-06-21 10-37-01](https://user-images.githubusercontent.com/67967749/175033750-95292b8f-ab22-4dae-8e00-3a407573b6ab.png)
 
 
 
